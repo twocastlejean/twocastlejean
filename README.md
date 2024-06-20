@@ -20,7 +20,7 @@
 
 
 ## 🛠️Tech Stack
-<img src="https://img.shields.io/badge/java-007396?logo=OpenJDK&logoColor=white">  <img src="https://img.shields.io/badge/C++-00599C?logo=C++&logoColor=white">  <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white">  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?logo=OpenJDK&logoColor=white">  <img src="https://img.shields.io/badge/C++-00599C?logo=C++&logoColor=white">  <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white">  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white">  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white">
 
 
 ## 🙋 Interested In
