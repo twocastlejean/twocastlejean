@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SungJin's%20Lab&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SungJin's%20Lab&fontSize=60&rotate=-30)
 
 <!--
 **twocastlejean/twocastlejean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
