@@ -18,4 +18,4 @@
 </div>
 
 ## 🛠️Tech Stack
-<img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring">  <img src="https://img.shields.io/badge/SpringBoot-000000?logo=SpringBoot">
+<img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white">  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white">
