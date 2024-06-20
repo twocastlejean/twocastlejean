@@ -24,4 +24,4 @@
 
 
 ## 🙋 Interested In
-<img src="https://img.shields.io/badge/AmazonWebService-232F3E?logo=AmazonWebService&logoColor=white">
+<img src="https://img.shields.io/badge/AmazonWebServices-232F3E?logo=AmazonWebServices&logoColor=white">
