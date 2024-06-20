@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=400&section=header&text=SungJin's%20Lab&fontSize=60&rotate=20&fontAlign=70&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🧙‍♂️✨&fontAlign=70)
 
 ## Hi there 👋
 
