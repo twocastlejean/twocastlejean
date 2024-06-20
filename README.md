@@ -4,10 +4,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=twocastlejean&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🧙‍♂️✨&fontAlign=70)
-
-![SungJin's Github Stats](https://github-readme-stats.vercel.app/api?username=twocastlejean&layout=compact)
-
 ## 📲Contact
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:sjbin0301@gmail.com">
