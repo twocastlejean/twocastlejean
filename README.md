@@ -24,4 +24,4 @@
 
 
 ## 🙋 Interested In
-<img src="https://img.shields.io/badge/AmazonWebServices-232F3E?logo=AmazonWebServices&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=AmazonWebServices&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white">  <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white">  <img src="https://img.shields.io/badge/JSON-000000?logo=JSON&logoColor=white">  <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white">
