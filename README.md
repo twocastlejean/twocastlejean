@@ -5,7 +5,7 @@
 
 
 ![SungJin's Github Stats](https://github-readme-stats.vercel.app/api?username=twocastlejean&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## 📲 Contact
 <div style="display:flex; flex-direction:row;">
